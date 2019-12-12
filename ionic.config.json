@@ -1,5 +1,7 @@
 {
   "name": "227final",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
